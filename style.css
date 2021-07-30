@@ -1,0 +1,47 @@
+body{
+    background-color: black;
+    color: rgb(255, 255, 255);
+}
+
+#nav_bar{
+    font-size: 23px;
+    font-family: 'Archivo Narrow';
+    font-style: bolder;
+    padding: 10px;
+    display: flex;
+    justify-content: space-around;
+}
+
+.nav_sections:hover{
+    background-color: white;
+    opacity: 0.5;
+    border-style: solid;
+}
+
+a{
+    text-decoration: none;
+}
+
+#header_All_About_Me{
+    color: rgb(165, 42, 42);
+}
+
+#header_Academics{
+    color: rgb(41, 62, 166);
+}
+
+#header_My_Projects{
+    color: rgb(166, 151, 41);
+}
+
+#big_img{
+    text-align: center;
+    margin-left: 100px;
+    width: 1000px;
+    height: auto;
+}
+
+.web_topics {
+    font-family: 'Archivo Narrow';
+}
+
